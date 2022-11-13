@@ -33,3 +33,10 @@ Install dependencies using [conda](https://docs.conda.io/en/latest/)
 *    Build a **Model**
 *    Save the Model as .pkl
 
+---
+**Conclusion :**
+
+It took me almsot more tahn one day to build this model, beacuse it take long time to to train all model. Accuracy of the model is more than 92%. So, in future i will try to improve the model in a netter way for classifying fake and real news. If you have any suggestions for improve the model in beteer way please let me know here is my Email handle - rafikul.official10@gmail.com
+
+Thank You!
+
