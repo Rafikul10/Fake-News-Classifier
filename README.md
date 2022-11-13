@@ -6,6 +6,7 @@
              
 ---
 Fake news has become one of the biggest problems of our age. It has serious impact on our online as well as offline discourse. One can even go as far as saying that, to date, fake news poses a clear and present danger to western democracy and stability of the society.
+
 Fake news classifier is an ML-based approach to classifiying the real and fake news. It's an classification problem so,I tried all classifictaion Algorithm ,and finally on XGBoost algorithm is performed best in Fake news dataset.
 
 Dataset is taken from the [kaggle](https://www.kaggle.com/datasets/hassanamin/textdb3) Fake News DataSet.
